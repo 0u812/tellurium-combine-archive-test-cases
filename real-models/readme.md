@@ -9,4 +9,5 @@ This directory contains examples of using Tellurium to edit real biological mode
 ### References:
 
 Calzone, L., Thieffry, D., Tyson, J. J., & Novak, B. (2007). **Dynamical modeling of syncytial mitotic cycles in Drosophila embryos.** *Molecular systems biology*, 3(1), 131.
+
 Wolf, J., Sohn, H. Y., Heinrich, R., & Kuriyama, H. (2001). **Mathematical analysis of a mechanism for autonomous metabolic oscillations in continuous culture of Saccharomyces cerevisiae**. *FEBS letters*, 499(3), 230-234.
