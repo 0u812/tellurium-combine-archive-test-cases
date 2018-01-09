@@ -8,3 +8,5 @@ These examples are derived from the examples used in the [SED-ML Web Tools](http
 * `repeated_stochastic_traces_fewer_traces.omex` derived from `repeated_stochastic_traces.omex` using Tellurium to reduce the number of visible traces for ease of plotting.
 * `steady_state_scan.omex` derived from [this example.](http://sysbioapps.dyndns.org/SED-ML_Web_Tools/Home/SimulateUrl?url=http%3A%2F%2Fsvn.code.sf.net%2Fp%2Flibsedml%2Fcode%2Ftrunk%2FSamples%2Fsedx-archives%2Fnestedv3%2Fv3-example1-repeated-steady-scan-oscli.sedx)
 * `timecourse_scan.omex` derived from [this example.](http://sysbioapps.dyndns.org/SED-ML_Web_Tools/Home/SimulateUrl?url=http%3A%2F%2Fsvn.code.sf.net%2Fp%2Flibsedml%2Fcode%2Ftrunk%2FSamples%2Fsedx-archives%2Fnestedv3%2Fv3-example4-repeated-scan-oscli.sedx)
+
+The `edited` subdirectory contains edited versions of these archives exported by Tellurium. These edited archives can be re-imported into the SED-ML Web Tools, demonstrating standards compliance for importing/exporting COMBINE archives from both tools.
