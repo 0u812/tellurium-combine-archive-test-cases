@@ -8,5 +8,5 @@ Internally, [Tellurium](http://tellurium.analogmachine.org/) uses [libCombine](h
 * Examples in the `swt` directory are taken from the [SED-ML Web Tools](http://sysbioapps.dyndns.org/SED-ML_Web_Tools), and showcase advanced usage of SED-ML for performing repeated stochastic simulations, steady state scans as a function of a parameter, and nested simulations.
 * The `real-models` directory contains demos of Tellurium's COMBINE archive editing functionality: A study varying Hill coefficient values for a (yeast respiratory model)[https://www.ebi.ac.uk/biomodels-main/BIOMD0000000090] and an expanded version of the [COMBINE archive by Scharm et al.](https://github.com/SemsProject/CombineArchiveShowCase).
 * The `published` directory contains COMBINE archives published in the literature.
-* The [jws](https://github.com/0u812/tellurium-combine-archive-test-cases/tree/master/jws) directory contains misc. archies from JWS used as examplars in testing compliance
+* The [jws](https://github.com/0u812/tellurium-combine-archive-test-cases/tree/master/jws) directory contains misc. archives from JWS used as examplars in testing compliance of other tools with JWS.
 * The `sbml-test-suite` directory contains the entire SBML test suite converted into COMBINE archives.
