@@ -10,4 +10,4 @@ Internally, [Tellurium](http://tellurium.analogmachine.org/) uses [libCombine](h
 * The `real-models` directory contains demos of Tellurium's COMBINE archive editing functionality: A study varying Hill coefficient values for a [yeast respiratory model](https://www.ebi.ac.uk/biomodels-main/BIOMD0000000090) and an expanded version of the [COMBINE archive by Scharm et al.](https://github.com/SemsProject/CombineArchiveShowCase).
 * The `published` directory contains COMBINE archives published in the literature.
 * The [jws](https://github.com/0u812/tellurium-combine-archive-test-cases/tree/master/jws) directory contains misc. archives from JWS used as examplars in testing compliance of other tools (Tellurium) with JWS. [Tellurium version 2.0.13](https://github.com/sys-bio/tellurium/releases/tag/2.0.13) or later required.
-* The `sbml-test-suite` directory contains the entire SBML test suite converted into COMBINE archives.
+* The `sbml-test-suite` directory contains a notebook for converting the entire SBML test suite into COMBINE archives and testing said archives.
